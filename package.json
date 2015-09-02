@@ -1,6 +1,6 @@
 {
   "name": "fis3-command-webfont",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auto convert svg font to eot,svg,woff,ttf and output css style by using fis3",
   "main": "index.js",
   "scripts": {
