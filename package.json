@@ -1,0 +1,24 @@
+{
+  "name": "fis3-command-webfont",
+  "version": "0.0.1",
+  "description": "Auto convert svg font to eot,svg,woff,ttf and output css style by using fis3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwdgit/fis3-command-webfont.git"
+  },
+  "keywords": [
+    "fis3",
+    "webfont",
+    "reasy"
+  ],
+  "author": "lwdgit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwdgit/fis3-command-webfont/issues"
+  },
+  "homepage": "https://github.com/lwdgit/fis3-command-webfont#readme"
+}
