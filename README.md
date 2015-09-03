@@ -44,7 +44,7 @@ fis.config.set("webfont",{
 
  >    fis3 webfont -r **.svg -d ./fonts/ -n iconfont
 
- * -r 指定需要转化的svg字体
+ * -r 指定需要转化的svg字体（可用glob表达式）
  * -d 指定输出目录
  * -n 指定输出字体名称
 
