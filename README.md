@@ -1,4 +1,4 @@
-# fis3-command-webfont
+# fis3-command-webfont  [![NPM version](https://badge.fury.io/js/fis3-command-webfont.png)](https://www.npmjs.org/package/fis3-command-webfont)
 
 ---
 
