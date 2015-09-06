@@ -1,7 +1,7 @@
 "use strict";
 
 exports.name = 'webfont';
-'use strict';
+
 
 exports.usage = '[options]';
 exports.desc = 'fis3 webfont generator,support svg,eot,ttf,woff';
